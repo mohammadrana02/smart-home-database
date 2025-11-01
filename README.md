@@ -1,5 +1,4 @@
-Database Schema Description
-This repository contains the Entity-Relationship Diagram (ERD) and SQL scripts for a Smart Home Management System database. The schema is designed to efficiently manage users, their homes, connected devices, and automation routines.
+This repository contains the Entity-Relationship Diagram (ERD), Schema and SQL scripts for a Smart Home Management System database. The schema is designed to efficiently manage users, their homes, connected devices, and automation routines.
 
 The core of the database is built around several key entities:
 
