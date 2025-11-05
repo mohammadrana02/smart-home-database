@@ -2,11 +2,11 @@
 
 A comprehensive database solution for managing smart home ecosystems, featuring user management, device tracking, automation rules, and real-time monitoring capabilities. This project demonstrates advanced database design principles and SQL implementation for IoT home automation systems.
 
-## 🏠 Project Overview
+## Project Overview
 
 This database system provides a robust foundation for smart home applications, enabling efficient management of users, devices, rooms, sensors, and automation rules. The system is designed to handle complex relationships between smart home components while maintaining data integrity and performance.
 
-## 📊 Database Schema
+## Database Schema
 
 ### Core Entities
 - **Users** - Home occupants and their profiles
@@ -25,7 +25,7 @@ This database system provides a robust foundation for smart home applications, e
 - Automations create intelligent behaviors based on sensor data
 - Real-time status tracking for all connected devices
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Database Technologies
 - **Database System**: MySQL
